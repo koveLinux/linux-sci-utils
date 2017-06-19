@@ -1,6 +1,6 @@
 /*
         Copyright 2017 Kove W. Ochre-Salter.
-        This program along with all it's ascociates(sciUtils_v0.01) is and has been distributed under terms of the GNU General Public License Version 3 (GNU GPLv3).
+        This program along with all it's ascociates(linux-sci-utils-v0.01) is and has been distributed under terms of the GNU General Public License Version 3 (GNU GPLv3).
 */
 
 #include <stdio.h>
